@@ -1,16 +1,7 @@
-# untitled5
+# Добавила корзину и избанное не все идеально конечно
+![image](https://github.com/Xmmmmm000/Corsina/assets/156674182/f911e5ac-71e7-4095-b681-69490a1744c1)
+Корзина
+![image](https://github.com/Xmmmmm000/Corsina/assets/156674182/5afe1632-af35-4026-b6d8-6a0fd8b0f0e9)
+Избранное 
+![image](https://github.com/Xmmmmm000/Corsina/assets/156674182/fe497fac-99ea-483b-9c96-10a2bbebe7f4)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
